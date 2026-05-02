@@ -6,7 +6,7 @@ I’m a **Full-Stack Developer specializing in MERN Stack development**, with ha
 
 💻 Backend-focused developer with strong expertise in **Node.js, Express.js, MongoDB, and JWT Authentication**
 ⚡ Passionate about **clean architecture, scalable systems, and performance optimization**
-📚 Strong foundation in **Data Structures & Algorithms (420+ LeetCode problems solved)**
+📚 Strong foundation in **Data Structures & Algorithms (460+ LeetCode problems solved)**
 🎯 Actively seeking **Software Development opportunities**
 
 ---
