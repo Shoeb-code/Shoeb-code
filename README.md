@@ -105,94 +105,12 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shoeb-code&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-</p>
-
----
-
-# 💻 Featured Projects
-
-## 🔹 FastTutors
-
-A MERN-based tutoring platform connecting students with tutors.
-
-### Features
-
-- JWT Authentication
-- Role-Based Authorization
-- Tutor Profiles
-- Parent Dashboard
-- Tuition Posting
-- Responsive UI
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `JWT`
-
----
-
-## 🔹 Inventory Store
-
-A complete inventory management system for laptop stores.
-
-### Features
-
-- Stock Management
-- Sales Tracking
-- Revenue Analytics
-- Admin Dashboard
-- CRUD Operations
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB`
-
----
-
-## 🔹 Tomato Food Delivery
-
-Food ordering web application inspired by Zomato.
-
-### Features
-
-- Authentication
-- Shopping Cart
-- Food Categories
-- Order Management
-- Responsive Design
-
-**Tech Stack**
-
-`React` `Node.js` `MongoDB`
-
----
-
 # 🧠 LeetCode
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Shoeb_3?theme=dark&font=Fira+Code&ext=heatmap"/>
 </p>
 
-<p align="center">
-<b>460+ Problems Solved</b><br>
-Strong understanding of Data Structures & Algorithms, including Trees, Graphs, Dynamic Programming, Binary Search, Backtracking, Sliding Window, Greedy, and more.
-</p>
-
----
-
-# 📚 Currently Learning
-
-- System Design
-- Redis
-- Docker
-- AWS Basics
-- Microservices
-- Scalable Backend Architecture
-
----
 
 # 🤝 Connect With Me
 
@@ -212,18 +130,6 @@ Strong understanding of Data Structures & Algorithms, including Trees, Graphs, D
 
 ---
 
-# 💡 Fun Fact
-
-```text
-while(!success){
-    learn();
-    code();
-    debug();
-    repeat();
-}
-```
-
----
 
 <p align="center">
 ⭐️ <b>Thanks for visiting my profile!</b><br><br>
